@@ -1,0 +1,689 @@
+2024-5-10 15:36:18-log: Cannot access game frame or container.
+2024-5-10 15:36:18-debug: asset-db:require-engine-code (3987ms)
+2024-5-10 15:36:18-log: meshopt wasm decoder initialized
+2024-5-10 15:36:20-log: Cocos Creator v3.8.1
+2024-5-10 15:36:20-debug: [Assets Memory track]: asset-db:worker-init: initEngine start:16.64MB, end 127.23MB, increase: 110.60MB
+2024-5-10 15:36:20-debug: [Assets Memory track]: asset-db-plugin-register: engine-extends start:93.53MB, end 96.94MB, increase: 3.41MB
+2024-5-10 15:36:20-debug: [Assets Memory track]: asset-db-plugin-enable: project start:93.69MB, end 96.94MB, increase: 3.25MB
+2024-5-10 15:36:20-debug: asset-db:worker-init: initPlugin (635ms)
+2024-5-10 15:36:20-debug: [Assets Memory track]: asset-db:worker-init start:16.64MB, end 97.00MB, increase: 80.36MB
+2024-5-10 15:36:20-debug: Run asset db hook programming:beforePreStart ...
+2024-5-10 15:36:20-debug: Run asset db hook engine-extends:beforePreStart success!
+2024-5-10 15:36:20-debug: Run asset db hook programming:beforePreStart success!
+2024-5-10 15:36:43-debug: [Assets Memory track]: asset-db-plugin-enable: builder start:113.44MB, end 279.64MB, increase: 166.20MB
+2024-5-10 15:36:26-debug: run package(builder) handler(enable) start
+2024-5-10 15:36:20-debug: Run asset db hook engine-extends:beforePreStart ...
+2024-5-10 15:36:43-debug: run package(shortcuts) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(animation-graph) handler(enable) start
+2024-5-10 15:36:43-debug: run package(animation-graph) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(about) handler(enable) start
+2024-5-10 15:36:43-debug: run package(about) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(builder) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(assets) handler(enable) start
+2024-5-10 15:36:43-debug: run package(console) handler(enable) start
+2024-5-10 15:36:43-debug: run package(shortcuts) handler(enable) start
+2024-5-10 15:36:43-debug: run package(console) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(crash-reporter) handler(enable) start
+2024-5-10 15:36:43-debug: run package(extension) handler(enable) start
+2024-5-10 15:36:43-debug: run package(crash-reporter) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(hierarchy) handler(enable) start
+2024-5-10 15:36:43-debug: run package(assets) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(extension) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(hierarchy) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(light-probe) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(lightmap) handler(enable) start
+2024-5-10 15:36:43-debug: run package(lightmap) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(node-library) handler(enable) start
+2024-5-10 15:36:43-debug: run package(inspector) handler(enable) start
+2024-5-10 15:36:43-debug: run package(node-library) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(package-asset) handler(enable) start
+2024-5-10 15:36:43-debug: run package(package-asset) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(inspector) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(process) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(light-probe) handler(enable) start
+2024-5-10 15:36:43-debug: run package(reference-image) handler(enable) start
+2024-5-10 15:36:43-debug: run package(reference-image) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(reflection-probe) handler(enable) start
+2024-5-10 15:36:43-debug: run package(reflection-probe) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(process) handler(enable) start
+2024-5-10 15:36:43-debug: run package(engine-extends) handler(enable) start
+2024-5-10 15:36:43-debug: run package(alipay-mini-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(alipay-mini-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(android) handler(enable) start
+2024-5-10 15:36:43-debug: run package(engine-extends) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(adsense-h5g-plugin) handler(enable) start
+2024-5-10 15:36:43-debug: run package(adsense-h5g-plugin) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(bytedance-mini-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(certificate) handler(enable) start
+2024-5-10 15:36:43-debug: run package(bytedance-mini-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(channel-upload-tools) handler(enable) start
+2024-5-10 15:36:43-debug: run package(certificate) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(channel-upload-tools) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(fb-instant-games) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(huawei-agc) handler(enable) start
+2024-5-10 15:36:43-debug: run package(huawei-agc) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(huawei-quick-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(android) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(huawei-quick-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(ios) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(linux) handler(enable) start
+2024-5-10 15:36:43-debug: run package(linux) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(mac) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(mac) handler(enable) start
+2024-5-10 15:36:43-debug: run package(native) handler(enable) start
+2024-5-10 15:36:43-debug: run package(fb-instant-games) handler(enable) start
+2024-5-10 15:36:43-debug: run package(ios) handler(enable) start
+2024-5-10 15:36:43-debug: run package(native) handler(enable) success!
+2024-5-10 15:36:43-debug: asset-db:worker-init (11860ms)
+2024-5-10 15:36:43-debug: run package(ohos) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(ohos) handler(enable) start
+2024-5-10 15:36:43-debug: asset-db-hook-programming-beforePreStart (5645ms)
+2024-5-10 15:36:43-debug: asset-db-hook-engine-extends-beforePreStart (5643ms)
+2024-5-10 15:36:43-debug: run package(openharmony) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(oppo-mini-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(openharmony) handler(enable) start
+2024-5-10 15:36:43-debug: run package(runtime-dev-tools) handler(enable) start
+2024-5-10 15:36:43-debug: run package(runtime-dev-tools) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(taobao-creative-app) handler(enable) start
+2024-5-10 15:36:43-debug: run package(taobao-mini-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(taobao-mini-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(vivo-mini-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(web-desktop) handler(enable) start
+2024-5-10 15:36:43-debug: run package(oppo-mini-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(web-mobile) handler(enable) start
+2024-5-10 15:36:43-debug: run package(web-mobile) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(web-desktop) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(vivo-mini-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(taobao-creative-app) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(wechatgame) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(wechatprogram) handler(enable) start
+2024-5-10 15:36:43-debug: run package(windows) handler(enable) start
+2024-5-10 15:36:43-debug: run package(wechatprogram) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(xiaomi-quick-game) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(cocos-service) handler(enable) start
+2024-5-10 15:36:43-debug: run package(windows) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(cocos-service) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(im-plugin) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(wechatgame) handler(enable) start
+2024-5-10 15:36:43-debug: run package(placeholder) handler(enable) start
+2024-5-10 15:36:43-debug: run package(xiaomi-quick-game) handler(enable) start
+2024-5-10 15:36:43-debug: run package(placeholder) handler(enable) success!
+2024-5-10 15:36:43-debug: run package(im-plugin) handler(enable) start
+2024-5-10 15:36:44-debug: Preimport db internal success
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\prefabsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\anibackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scriptsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\texturesbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\utilsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\AniButton.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\CheckArray.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\Test.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\test2.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\Item.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\utils\ArrayUtils.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\scripts\utils\MathUtil.tsbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:44-debug: Preimport db assets success
+2024-5-10 15:36:44-debug: Run asset db hook programming:afterPreStart ...
+2024-5-10 15:36:46-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:36:46-debug: Run asset db hook programming:afterPreStart success!
+2024-5-10 15:36:46-debug: [Assets Memory track]: asset-db:worker-init: preStart start:97.01MB, end 284.43MB, increase: 187.43MB
+2024-5-10 15:36:46-debug: Run asset db hook engine-extends:afterPreStart ...
+2024-5-10 15:36:46-debug: Start up the 'internal' database...
+2024-5-10 15:36:46-debug: Run asset db hook engine-extends:afterPreStart success!
+2024-5-10 15:36:47-debug: asset-db-hook-programming-afterPreStart (3492ms)
+2024-5-10 15:36:47-debug: asset-db-hook-engine-extends-afterPreStart (1059ms)
+2024-5-10 15:36:47-debug: asset-db:worker-effect-data-processing (1057ms)
+2024-5-10 15:36:47-debug: start asset-db with asset: 462
+2024-5-10 15:36:47-debug: [Assets Memory track]: asset-db:worker-startup-database[internal] start:112.55MB, end 281.65MB, increase: 169.10MB
+2024-5-10 15:36:47-debug: Start up the 'assets' database...
+2024-5-10 15:36:47-debug: asset-db:worker-startup-database[internal] (23924ms)
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test1.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test3.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test2.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\ani\btn_ani.animbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\prefabs\item.prefabbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\textures\button.pngbackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\textures\button.png@6c48abackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\textures\button.png@f9941background: #aaff85; color: #000;color: #000;
+2024-5-10 15:36:47-debug: start asset-db with asset: 18
+2024-5-10 15:36:47-debug: [Assets Memory track]: asset-db:worker-startup-database[assets] start:281.50MB, end 283.06MB, increase: 1.55MB
+2024-5-10 15:36:47-debug: asset-db:worker-startup-database[assets] (3831ms)
+2024-5-10 15:36:47-debug: asset-db:start-database (27056ms)
+2024-5-10 15:36:47-debug: asset-db:ready (41898ms)
+2024-5-10 15:36:47-debug: init worker message success
+2024-5-10 15:36:50-debug: [Build Memory track]: builder:worker-init start:284.99MB, end 291.89MB, increase: 6.89MB
+2024-5-10 15:36:50-debug: programming:execute-script (2189ms)
+2024-5-10 15:36:50-debug: builder:worker-init (2129ms)
+2024-5-10 15:36:53-debug: programming:execute-script (19ms)
+2024-5-10 15:37:03-debug: Query all assets info in project
+2024-5-10 15:37:03-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-10 15:37:03-debug:   Number of all scripts: 8
+2024-5-10 15:37:03-debug:   Number of other assets: 328
+2024-5-10 15:37:03-debug:   Number of all scenes: 3
+2024-5-10 15:37:03-debug: reload all scripts.
+2024-5-10 15:37:03-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\93\93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\93\93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/base" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/3d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/2d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-webgl2" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/animation" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/gfx-empty" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/sorting" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/skeletal-animation" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/ui" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle-2d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-framework" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-box2d-wasm" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/physics-2d-framework" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/primitive" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/particle" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/profiler" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/geometry-renderer" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/intersection-2d" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/audio" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/terrain" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/video" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/webview" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tween" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/light-probe" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/tiled-map" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/dragon-bones" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/custom-pipeline" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:37:03-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/xr" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "cce:/internal/x/cc-fu/spine" loaded.
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\6d\6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\8f\8fba0858a142dc87a4524b6f00b02418662f8921.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\8f\8fba0858a142dc87a4524b6f00b02418662f8921.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Register AniButton
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\6b\6b124420d24599d7d4703e619c29dba21ebb75d6.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\6b\6b124420d24599d7d4703e619c29dba21ebb75d6.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js" loaded.
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\7d\7d58bbb4bacbd0a21152857fe2385b5949465c37.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\7d\7d58bbb4bacbd0a21152857fe2385b5949465c37.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Register Item
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\18\18b5dc5f4f16667e981b14030b7555324f50f216.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\18\18b5dc5f4f16667e981b14030b7555324f50f216.js is not in module cache!
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\6a\6a5019a719a9014c047e67aa1cf34453ab8392ce.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\6a\6a5019a719a9014c047e67aa1cf34453ab8392ce.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Register Test
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js" loaded.
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\a4\a41396d2ad28cac180d19bf1aa8c8efe591078a7.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\a4\a41396d2ad28cac180d19bf1aa8c8efe591078a7.js is not in module cache!
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\4c\4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\4c\4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Register test2
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js" loaded.
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js" loaded.
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\14\149f8fd30c442046e81f3adabddca24c97d57ba3.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\14\149f8fd30c442046e81f3adabddca24c97d57ba3.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js" loaded.
+2024-5-10 15:37:03-debug: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\8d\8de3538625366665dd91c1c9a7856793f17f4740.js resolved to C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\temp\programming\packer-driver\targets\editor\chunks\8d\8de3538625366665dd91c1c9a7856793f17f4740.js is not in module cache!
+2024-5-10 15:37:03-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js" loaded.
+2024-5-10 15:37:03-debug: 查询 Asset Bundle start0%
+2024-5-10 15:37:03-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:37:03-debug: Incremental keys: 
+2024-5-10 15:37:03-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:37:03-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-10 15:37:03-debug: // ---- build task 查询 Asset Bundle ---- (81ms)
+2024-5-10 15:37:03-debug: run build task 查询 Asset Bundle success in 81 ms √5%
+2024-5-10 15:37:03-debug: [Build Memory track]: 查询 Asset Bundle start:244.50MB, end 244.07MB, increase: -436.87KB
+2024-5-10 15:37:03-debug: 查询 Asset Bundle start5%
+2024-5-10 15:37:03-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:37:03-debug: // ---- build task 查询 Asset Bundle ---- (3ms)
+2024-5-10 15:37:03-debug: run build task 查询 Asset Bundle success in 3 ms √10%
+2024-5-10 15:37:03-debug: [Build Memory track]: 查询 Asset Bundle start:244.09MB, end 244.10MB, increase: 15.32KB
+2024-5-10 15:37:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:37:03-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-10 15:37:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-10 15:37:03-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-10 15:37:03-debug: 填充脚本数据到 settings.json start12%
+2024-5-10 15:37:03-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:244.12MB, end 244.14MB, increase: 17.40KB
+2024-5-10 15:37:03-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-10 15:37:03-debug: // ---- build task 填充脚本数据到 settings.json ---- (5ms)
+2024-5-10 15:37:03-debug: run build task 填充脚本数据到 settings.json success in 5 ms √13%
+2024-5-10 15:37:03-debug: [Build Memory track]: 填充脚本数据到 settings.json start:244.15MB, end 244.17MB, increase: 22.42KB
+2024-5-10 15:37:03-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-10 15:37:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:37:03-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (11ms)
+2024-5-10 15:37:03-debug: run build task 整理部分构建选项内数据到 settings.json success in 11 ms √15%
+2024-5-10 15:37:03-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:244.19MB, end 244.32MB, increase: 128.61KB
+2024-5-10 15:37:13-debug: refresh db internal success
+2024-5-10 15:37:13-debug: refresh db assets success
+2024-5-10 15:37:13-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:37:13-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:37:13-debug: asset-db:refresh-all-database (170ms)
+2024-5-10 15:37:13-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-10 15:37:13-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-10 15:37:27-debug: Query all assets info in project
+2024-5-10 15:37:27-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-10 15:37:27-debug:   Number of all scenes: 3
+2024-5-10 15:37:27-debug:   Number of all scripts: 8
+2024-5-10 15:37:27-debug:   Number of other assets: 328
+2024-5-10 15:37:27-debug: reload all scripts.
+2024-5-10 15:37:27-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:37:27-debug: Unregister Test
+2024-5-10 15:37:27-debug: Unregister AniButton
+2024-5-10 15:37:27-debug: Unregister Item
+2024-5-10 15:37:27-debug: Unregister DebugViewRuntimeControl
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-10 15:37:27-debug: Unregister test2
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js'
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js'
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js" loaded.
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js'
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Register Item
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js" loaded.
+2024-5-10 15:37:27-debug: Invalidating 'pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js'
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Register AniButton
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js" loaded.
+2024-5-10 15:37:27-debug: [[Executor]] Register test2
+2024-5-10 15:37:27-debug: 查询 Asset Bundle start0%
+2024-5-10 15:37:27-debug: [[Executor]] Register Test
+2024-5-10 15:37:27-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:37:27-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:37:27-debug: Incremental keys: 
+2024-5-10 15:37:27-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-10 15:37:28-debug: // ---- build task 查询 Asset Bundle ---- (51ms)
+2024-5-10 15:37:28-debug: run build task 查询 Asset Bundle success in 51 ms √5%
+2024-5-10 15:37:28-debug: [Build Memory track]: 查询 Asset Bundle start:246.50MB, end 246.55MB, increase: 51.80KB
+2024-5-10 15:37:28-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:37:28-debug: 查询 Asset Bundle start5%
+2024-5-10 15:37:28-debug: // ---- build task 查询 Asset Bundle ---- (6ms)
+2024-5-10 15:37:28-debug: run build task 查询 Asset Bundle success in 6 ms √10%
+2024-5-10 15:37:28-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-10 15:37:28-debug: [Build Memory track]: 查询 Asset Bundle start:246.56MB, end 246.58MB, increase: 16.39KB
+2024-5-10 15:37:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:37:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2024-5-10 15:37:28-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √12%
+2024-5-10 15:37:28-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:246.60MB, end 246.62MB, increase: 24.05KB
+2024-5-10 15:37:28-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-10 15:37:28-debug: 填充脚本数据到 settings.json start12%
+2024-5-10 15:37:28-debug: run build task 填充脚本数据到 settings.json success in 3 ms √13%
+2024-5-10 15:37:28-debug: // ---- build task 填充脚本数据到 settings.json ---- (3ms)
+2024-5-10 15:37:28-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-10 15:37:28-debug: [Build Memory track]: 填充脚本数据到 settings.json start:246.64MB, end 246.65MB, increase: 16.69KB
+2024-5-10 15:37:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:37:28-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (7ms)
+2024-5-10 15:37:28-debug: run build task 整理部分构建选项内数据到 settings.json success in 7 ms √15%
+2024-5-10 15:37:28-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:246.67MB, end 246.79MB, increase: 122.93KB
+2024-5-10 15:37:45-debug: refresh db internal success
+2024-5-10 15:37:45-debug: refresh db assets success
+2024-5-10 15:37:45-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:37:45-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:37:45-debug: asset-db:refresh-all-database (167ms)
+2024-5-10 15:38:34-debug: refresh db internal success
+2024-5-10 15:38:34-debug: refresh db assets success
+2024-5-10 15:38:34-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:38:34-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:38:34-debug: asset-db:refresh-all-database (192ms)
+2024-5-10 15:38:34-debug: asset-db:worker-effect-data-processing (3ms)
+2024-5-10 15:38:34-debug: asset-db-hook-engine-extends-afterRefresh (5ms)
+2024-5-10 15:38:42-debug: refresh db internal success
+2024-5-10 15:38:42-debug: refresh db assets success
+2024-5-10 15:38:42-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:38:42-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:38:42-debug: asset-db:refresh-all-database (187ms)
+2024-5-10 15:38:42-debug: asset-db:worker-effect-data-processing (1ms)
+2024-5-10 15:38:42-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-10 15:39:33-debug: start refresh asset from C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test1.scene...
+2024-5-10 15:39:33-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test1.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:39:33-debug: refresh asset C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets success
+2024-5-10 15:39:33-debug: start refresh asset from C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test1.scene...
+2024-5-10 15:39:33-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test1.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:39:33-debug: refresh asset C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets success
+2024-5-10 15:39:34-debug: Query all assets info in project
+2024-5-10 15:39:34-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-10 15:39:34-debug:   Number of other assets: 328
+2024-5-10 15:39:34-debug:   Number of all scenes: 3
+2024-5-10 15:39:34-debug:   Number of all scripts: 8
+2024-5-10 15:39:34-debug: reload all scripts.
+2024-5-10 15:39:34-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:39:34-debug: Unregister test2
+2024-5-10 15:39:34-debug: Unregister AniButton
+2024-5-10 15:39:34-debug: Unregister Item
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-10 15:39:34-debug: Unregister Test
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-10 15:39:34-debug: Unregister DebugViewRuntimeControl
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js'
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js'
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js'
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js'
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js'
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js'
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js'
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js" loaded.
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js'
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js" loaded.
+2024-5-10 15:39:34-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Register Item
+2024-5-10 15:39:34-debug: [[Executor]] Register AniButton
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Register test2
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js" loaded.
+2024-5-10 15:39:34-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-10 15:39:34-debug: [[Executor]] Register Test
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js" loaded.
+2024-5-10 15:39:34-debug: Incremental keys: 
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js" loaded.
+2024-5-10 15:39:34-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:39:34-debug: 查询 Asset Bundle start0%
+2024-5-10 15:39:34-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:39:34-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-10 15:39:34-debug: // ---- build task 查询 Asset Bundle ---- (35ms)
+2024-5-10 15:39:34-debug: [Build Memory track]: 查询 Asset Bundle start:250.90MB, end 250.99MB, increase: 97.21KB
+2024-5-10 15:39:34-debug: run build task 查询 Asset Bundle success in 35 ms √5%
+2024-5-10 15:39:34-debug: 查询 Asset Bundle start5%
+2024-5-10 15:39:34-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:39:34-debug: // ---- build task 查询 Asset Bundle ---- (3ms)
+2024-5-10 15:39:34-debug: [Build Memory track]: 查询 Asset Bundle start:251.01MB, end 251.02MB, increase: 17.49KB
+2024-5-10 15:39:34-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:39:34-debug: run build task 查询 Asset Bundle success in 3 ms √10%
+2024-5-10 15:39:34-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-10 15:39:34-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (3ms)
+2024-5-10 15:39:34-debug: run build task 整理部分构建选项内数据到 settings.json success in 3 ms √12%
+2024-5-10 15:39:34-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:251.04MB, end 251.06MB, increase: 18.57KB
+2024-5-10 15:39:34-debug: 填充脚本数据到 settings.json start12%
+2024-5-10 15:39:34-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-10 15:39:34-debug: // ---- build task 填充脚本数据到 settings.json ---- (3ms)
+2024-5-10 15:39:34-debug: run build task 填充脚本数据到 settings.json success in 3 ms √13%
+2024-5-10 15:39:34-debug: [Build Memory track]: 填充脚本数据到 settings.json start:251.07MB, end 251.09MB, increase: 17.99KB
+2024-5-10 15:39:34-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:39:34-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-10 15:39:34-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (9ms)
+2024-5-10 15:39:34-debug: run build task 整理部分构建选项内数据到 settings.json success in 9 ms √15%
+2024-5-10 15:39:34-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:251.11MB, end 251.22MB, increase: 119.30KB
+2024-5-10 15:39:58-debug: Query all assets info in project
+2024-5-10 15:39:58-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-10 15:39:58-debug:   Number of all scripts: 8
+2024-5-10 15:39:58-debug:   Number of other assets: 328
+2024-5-10 15:39:58-debug:   Number of all scenes: 3
+2024-5-10 15:39:58-debug: reload all scripts.
+2024-5-10 15:39:58-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:39:58-debug: Unregister AniButton
+2024-5-10 15:39:58-debug: Unregister Item
+2024-5-10 15:39:58-debug: Unregister Test
+2024-5-10 15:39:58-debug: Unregister test2
+2024-5-10 15:39:58-debug: Unregister DebugViewRuntimeControl
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js'
+2024-5-10 15:39:58-debug: Invalidating 'pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js'
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Register AniButton
+2024-5-10 15:39:58-debug: [[Executor]] Register Item
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Register Test
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js" loaded.
+2024-5-10 15:39:58-debug: Incremental keys: 
+2024-5-10 15:39:58-debug: 查询 Asset Bundle start0%
+2024-5-10 15:39:58-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:39:58-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:39:58-debug: [[Executor]] Register test2
+2024-5-10 15:39:58-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-10 15:39:58-debug: // ---- build task 查询 Asset Bundle ---- (56ms)
+2024-5-10 15:39:58-debug: run build task 查询 Asset Bundle success in 56 ms √5%
+2024-5-10 15:39:58-debug: 查询 Asset Bundle start5%
+2024-5-10 15:39:58-debug: [Build Memory track]: 查询 Asset Bundle start:252.58MB, end 252.68MB, increase: 99.41KB
+2024-5-10 15:39:58-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:39:58-debug: // ---- build task 查询 Asset Bundle ---- (2ms)
+2024-5-10 15:39:58-debug: run build task 查询 Asset Bundle success in 2 ms √10%
+2024-5-10 15:39:58-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-10 15:39:58-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:39:58-debug: [Build Memory track]: 查询 Asset Bundle start:252.70MB, end 252.71MB, increase: 16.63KB
+2024-5-10 15:39:58-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-10 15:39:58-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-10 15:39:58-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:252.73MB, end 252.75MB, increase: 18.44KB
+2024-5-10 15:39:58-debug: 填充脚本数据到 settings.json start12%
+2024-5-10 15:39:58-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-10 15:39:58-debug: // ---- build task 填充脚本数据到 settings.json ---- (1ms)
+2024-5-10 15:39:58-debug: run build task 填充脚本数据到 settings.json success in 1 ms √13%
+2024-5-10 15:39:58-debug: [Build Memory track]: 填充脚本数据到 settings.json start:252.76MB, end 252.78MB, increase: 16.89KB
+2024-5-10 15:39:58-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-10 15:39:58-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:39:58-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (11ms)
+2024-5-10 15:39:58-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:252.80MB, end 252.23MB, increase: -579.19KB
+2024-5-10 15:39:58-debug: run build task 整理部分构建选项内数据到 settings.json success in 11 ms √15%
+2024-5-10 15:40:17-debug: refresh db internal success
+2024-5-10 15:40:17-debug: refresh db assets success
+2024-5-10 15:40:17-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:40:17-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:40:17-debug: asset-db:refresh-all-database (148ms)
+2024-5-10 15:40:17-debug: asset-db:worker-effect-data-processing (3ms)
+2024-5-10 15:40:17-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+2024-5-10 15:40:54-debug: refresh db internal success
+2024-5-10 15:40:54-debug: refresh db assets success
+2024-5-10 15:40:54-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:40:54-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:40:54-debug: asset-db:refresh-all-database (142ms)
+2024-5-10 15:40:54-debug: asset-db:worker-effect-data-processing (4ms)
+2024-5-10 15:40:54-debug: asset-db-hook-engine-extends-afterRefresh (5ms)
+2024-5-10 15:40:59-debug: refresh db internal success
+2024-5-10 15:40:59-debug: refresh db assets success
+2024-5-10 15:40:59-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:40:59-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:40:59-debug: asset-db:refresh-all-database (124ms)
+2024-5-10 15:40:59-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-10 15:40:59-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-10 15:41:00-debug: refresh db internal success
+2024-5-10 15:41:00-debug: refresh db assets success
+2024-5-10 15:41:00-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:41:00-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:41:00-debug: asset-db:refresh-all-database (125ms)
+2024-5-10 15:41:00-debug: asset-db:worker-effect-data-processing (4ms)
+2024-5-10 15:41:00-debug: asset-db-hook-engine-extends-afterRefresh (4ms)
+2024-5-10 15:41:05-debug: refresh db internal success
+2024-5-10 15:41:05-debug: refresh db assets success
+2024-5-10 15:41:05-debug: Run asset db hook engine-extends:afterRefresh ...
+2024-5-10 15:41:05-debug: Run asset db hook engine-extends:afterRefresh success!
+2024-5-10 15:41:05-debug: asset-db:worker-effect-data-processing (2ms)
+2024-5-10 15:41:05-debug: asset-db:refresh-all-database (107ms)
+2024-5-10 15:41:05-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+2024-5-10 15:41:59-debug: start refresh asset from C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test2.scene...
+2024-5-10 15:41:59-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test2.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:41:59-debug: refresh asset C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets success
+2024-5-10 15:41:59-debug: start refresh asset from C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test2.scene...
+2024-5-10 15:41:59-debug: %cImport%c: C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets\test2.scenebackground: #aaff85; color: #000;color: #000;
+2024-5-10 15:41:59-debug: refresh asset C:\win11_PD\naiknig\gitee\interview-questions_-joycastle\assets success
+2024-5-10 15:42:00-debug: Query all assets info in project
+2024-5-10 15:42:00-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-10 15:42:00-debug:   Number of all scenes: 3
+2024-5-10 15:42:00-debug:   Number of all scripts: 8
+2024-5-10 15:42:00-debug:   Number of other assets: 328
+2024-5-10 15:42:00-debug: reload all scripts.
+2024-5-10 15:42:00-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:42:00-debug: Unregister AniButton
+2024-5-10 15:42:00-debug: Unregister Item
+2024-5-10 15:42:00-debug: Unregister Test
+2024-5-10 15:42:00-debug: Unregister test2
+2024-5-10 15:42:00-debug: Unregister DebugViewRuntimeControl
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js'
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register Item
+2024-5-10 15:42:00-debug: [[Executor]] Register AniButton
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register test2
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register Test
+2024-5-10 15:42:00-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:42:00-debug: 查询 Asset Bundle start0%
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js" loaded.
+2024-5-10 15:42:00-debug: Incremental keys: 
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:42:00-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ---- (37ms)
+2024-5-10 15:42:00-debug: run build task 查询 Asset Bundle success in 37 ms √5%
+2024-5-10 15:42:00-debug: [Build Memory track]: 查询 Asset Bundle start:256.97MB, end 257.86MB, increase: 903.01KB
+2024-5-10 15:42:00-debug: 查询 Asset Bundle start5%
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ---- (2ms)
+2024-5-10 15:42:00-debug: run build task 查询 Asset Bundle success in 2 ms √10%
+2024-5-10 15:42:00-debug: [Build Memory track]: 查询 Asset Bundle start:257.87MB, end 257.89MB, increase: 16.27KB
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:42:00-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-10 15:42:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-10 15:42:00-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-10 15:42:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:257.90MB, end 257.92MB, increase: 18.11KB
+2024-5-10 15:42:00-debug: 填充脚本数据到 settings.json start12%
+2024-5-10 15:42:00-debug: // ---- build task 填充脚本数据到 settings.json ---- (4ms)
+2024-5-10 15:42:00-debug: run build task 填充脚本数据到 settings.json success in 4 ms √13%
+2024-5-10 15:42:00-debug: [Build Memory track]: 填充脚本数据到 settings.json start:257.23MB, end 257.25MB, increase: 17.47KB
+2024-5-10 15:42:00-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (8ms)
+2024-5-10 15:42:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 8 ms √15%
+2024-5-10 15:42:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:257.27MB, end 257.40MB, increase: 132.79KB
+2024-5-10 15:42:00-debug: Query all assets info in project
+2024-5-10 15:42:00-debug: init custom config: keepNodeUuid: false, useCache: true
+2024-5-10 15:42:00-debug:   Number of all scenes: 3
+2024-5-10 15:42:00-debug:   Number of other assets: 328
+2024-5-10 15:42:00-debug:   Number of all scripts: 8
+2024-5-10 15:42:00-debug: reload all scripts.
+2024-5-10 15:42:00-debug: Set detail map pack:///resolution-detail-map.json: {}
+2024-5-10 15:42:00-debug: Unregister Item
+2024-5-10 15:42:00-debug: Unregister AniButton
+2024-5-10 15:42:00-debug: Unregister DebugViewRuntimeControl
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js'
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js'
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register AniButton
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/8f/8fba0858a142dc87a4524b6f00b02418662f8921.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6b/6b124420d24599d7d4703e619c29dba21ebb75d6.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register Item
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/7d/7d58bbb4bacbd0a21152857fe2385b5949465c37.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register Test
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/18/18b5dc5f4f16667e981b14030b7555324f50f216.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/4c/4c973831fcbb7699a3e295b27dcb9daf1ebd93c1.js" loaded.
+2024-5-10 15:42:00-debug: Unregister Test
+2024-5-10 15:42:00-debug: Unregister test2
+2024-5-10 15:42:00-debug: [[Executor]] Register test2
+2024-5-10 15:42:00-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/a4/a41396d2ad28cac180d19bf1aa8c8efe591078a7.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/14/149f8fd30c442046e81f3adabddca24c97d57ba3.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Register DebugViewRuntimeControl
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/8d/8de3538625366665dd91c1c9a7856793f17f4740.js" loaded.
+2024-5-10 15:42:00-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+2024-5-10 15:42:00-debug: Incremental keys: 
+2024-5-10 15:42:00-debug: 查询 Asset Bundle start0%
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:42:00-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ---- (35ms)
+2024-5-10 15:42:00-debug: run build task 查询 Asset Bundle success in 35 ms √5%
+2024-5-10 15:42:00-debug: [Build Memory track]: 查询 Asset Bundle start:258.61MB, end 259.54MB, increase: 952.24KB
+2024-5-10 15:42:00-debug: 查询 Asset Bundle start5%
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ----
+2024-5-10 15:42:00-debug: [Build Memory track]: 查询 Asset Bundle start:259.55MB, end 259.57MB, increase: 15.59KB
+2024-5-10 15:42:00-debug: 整理部分构建选项内数据到 settings.json start10%
+2024-5-10 15:42:00-debug: // ---- build task 查询 Asset Bundle ---- (1ms)
+2024-5-10 15:42:00-debug: run build task 查询 Asset Bundle success in 1 ms √10%
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (2ms)
+2024-5-10 15:42:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 2 ms √12%
+2024-5-10 15:42:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.58MB, end 259.60MB, increase: 20.26KB
+2024-5-10 15:42:00-debug: 填充脚本数据到 settings.json start12%
+2024-5-10 15:42:00-debug: // ---- build task 填充脚本数据到 settings.json ----
+2024-5-10 15:42:00-debug: run build task 填充脚本数据到 settings.json success in 2 ms √13%
+2024-5-10 15:42:00-debug: [Build Memory track]: 填充脚本数据到 settings.json start:259.62MB, end 259.63MB, increase: 15.48KB
+2024-5-10 15:42:00-debug: // ---- build task 填充脚本数据到 settings.json ---- (2ms)
+2024-5-10 15:42:00-debug: 整理部分构建选项内数据到 settings.json start13%
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ----
+2024-5-10 15:42:00-debug: // ---- build task 整理部分构建选项内数据到 settings.json ---- (6ms)
+2024-5-10 15:42:00-debug: run build task 整理部分构建选项内数据到 settings.json success in 6 ms √15%
+2024-5-10 15:42:00-debug: [Build Memory track]: 整理部分构建选项内数据到 settings.json start:259.65MB, end 259.79MB, increase: 140.32KB

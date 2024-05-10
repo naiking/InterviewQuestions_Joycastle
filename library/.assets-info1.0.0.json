@@ -1,0 +1,274 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\win11_PD\\study\\test\\assets\\scripts.meta": {
+      "time": 1715314452950.6348
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts": {
+      "time": 1715325103028.958,
+      "uuid": "1061d8fa-f962-488b-b5a8-eb3e77811c18"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\Test.ts.meta": {
+      "time": 1715314462771.0037
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\Test.ts": {
+      "time": 1715322714441.2847,
+      "uuid": "d1e0d758-90a8-4608-a9a3-fac0e30dcdb8"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\prefabs.meta": {
+      "time": 1715314858674.9404
+    },
+    "C:\\win11_PD\\study\\test\\assets\\prefabs": {
+      "time": 1715316141500.798,
+      "uuid": "58fef525-0335-4482-9789-0334f990f7ab"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\prefabs\\item.prefab.meta": {
+      "time": 1715316141516.8242
+    },
+    "C:\\win11_PD\\study\\test\\assets\\prefabs\\item.prefab": {
+      "time": 1715317927128.7588,
+      "uuid": "6844e67c-6d83-4073-b534-c005bf85b3d4"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\utils.meta": {
+      "time": 1715317516708.8196
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\utils": {
+      "time": 1715317534753.061,
+      "uuid": "aa8c0bd5-2150-42c0-8294-1d5e813c2fb2"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\utils\\ArrayUtils.ts.meta": {
+      "time": 1715317534769.0613
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\utils\\MathUtil.ts.meta": {
+      "time": 1715317534777.0703
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\utils\\ArrayUtils.ts": {
+      "time": 1702916318654.4736,
+      "uuid": "2c2a6827-6957-4965-a795-38d701443847"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\utils\\MathUtil.ts": {
+      "time": 1702916318656.4746,
+      "uuid": "63452d1b-e744-4299-8154-e6837ade42dc"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\Item.ts.meta": {
+      "time": 1715317823000.9905
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\Item.ts": {
+      "time": 1715320916299.5684,
+      "uuid": "3bf2e4b1-5a93-4b43-bf7d-95393819daf4"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\CheckArray.ts.meta": {
+      "time": 1715322716227.8462
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\CheckArray.ts": {
+      "time": 1715324031033.9402,
+      "uuid": "9f41fba5-a179-44e6-9618-a5a9d6c0468b"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\test2.scene.meta": {
+      "time": 1715322763929.461
+    },
+    "C:\\win11_PD\\study\\test\\assets\\test2.scene": {
+      "time": 1715324308693.2822,
+      "uuid": "affb9958-67a5-487d-b6c6-09c9f646b11b"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\test2.ts.meta": {
+      "time": 1715323434579.3782
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\test2.ts": {
+      "time": 1715323585311.0735,
+      "uuid": "b628b6c3-5db2-431d-8058-fe5b1e92706f"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\test1.scene.meta": {
+      "time": 1715314443237.4827
+    },
+    "C:\\win11_PD\\study\\test\\assets\\test1.scene": {
+      "time": 1715324389939.2544,
+      "uuid": "b4b220c3-ac31-4b54-8e1a-e98444165336"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\test3.scene.meta": {
+      "time": 1715324403752.6348
+    },
+    "C:\\win11_PD\\study\\test\\assets\\test3.scene": {
+      "time": 1715325503344.123,
+      "uuid": "efe0bc85-9a83-4808-8848-d2d00b28b404"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\textures.meta": {
+      "time": 1715324446691.9597
+    },
+    "C:\\win11_PD\\study\\test\\assets\\textures": {
+      "time": 1715324468064.0896,
+      "uuid": "ebc20d02-6888-4eb5-88ab-60fce41f1d66"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\textures\\button.png.meta": {
+      "time": 1715324468161.9358
+    },
+    "C:\\win11_PD\\study\\test\\assets\\textures\\button.png": {
+      "time": 1606532737000,
+      "uuid": "54085230-5e03-4024-a282-100eac80293c"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\ani.meta": {
+      "time": 1715324774970.26
+    },
+    "C:\\win11_PD\\study\\test\\assets\\ani": {
+      "time": 1715324775471.1787,
+      "uuid": "08838599-29bb-4691-81ef-9d20d5fffdf6"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\ani\\btn_ani.anim.meta": {
+      "time": 1715324775521.579
+    },
+    "C:\\win11_PD\\study\\test\\assets\\ani\\btn_ani.anim": {
+      "time": 1715325017199.0972,
+      "uuid": "6e45002c-f47e-410c-b22b-76463539d8ab"
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\AniButton.ts.meta": {
+      "time": 1715325103031.8828
+    },
+    "C:\\win11_PD\\study\\test\\assets\\scripts\\AniButton.ts": {
+      "time": 1715326122902.2683,
+      "uuid": "fe2d4ddb-2d06-4760-aa34-9801315740a7"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\ani": {
+      "time": 1715326397789.9683,
+      "uuid": "08838599-29bb-4691-81ef-9d20d5fffdf6"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\prefabs": {
+      "time": 1715326397803.9824,
+      "uuid": "58fef525-0335-4482-9789-0334f990f7ab"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts": {
+      "time": 1715326397834.9822,
+      "uuid": "1061d8fa-f962-488b-b5a8-eb3e77811c18"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\textures": {
+      "time": 1715326397856.0103,
+      "uuid": "ebc20d02-6888-4eb5-88ab-60fce41f1d66"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\utils": {
+      "time": 1715326397844.9932,
+      "uuid": "aa8c0bd5-2150-42c0-8294-1d5e813c2fb2"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\AniButton.ts": {
+      "time": 1715326122902.2683,
+      "uuid": "fe2d4ddb-2d06-4760-aa34-9801315740a7"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\CheckArray.ts": {
+      "time": 1715324031033.9402,
+      "uuid": "9f41fba5-a179-44e6-9618-a5a9d6c0468b"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\Item.ts": {
+      "time": 1715320916299.5684,
+      "uuid": "3bf2e4b1-5a93-4b43-bf7d-95393819daf4"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\Test.ts": {
+      "time": 1715322714441.2847,
+      "uuid": "d1e0d758-90a8-4608-a9a3-fac0e30dcdb8"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\test2.ts": {
+      "time": 1715323585311.0735,
+      "uuid": "b628b6c3-5db2-431d-8058-fe5b1e92706f"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\utils\\ArrayUtils.ts": {
+      "time": 1702916318654.4736,
+      "uuid": "2c2a6827-6957-4965-a795-38d701443847"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\utils\\MathUtil.ts": {
+      "time": 1702916318656.4746,
+      "uuid": "63452d1b-e744-4299-8154-e6837ade42dc"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\ani.meta": {
+      "time": 1715324774970.26
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\prefabs.meta": {
+      "time": 1715314858674.9404
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts.meta": {
+      "time": 1715314452950.6348
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\textures.meta": {
+      "time": 1715324446691.9597
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\utils.meta": {
+      "time": 1715317516708.8196
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\AniButton.ts.meta": {
+      "time": 1715325103031.8828
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\CheckArray.ts.meta": {
+      "time": 1715322716227.8462
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\Item.ts.meta": {
+      "time": 1715317823000.9905
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\Test.ts.meta": {
+      "time": 1715314462771.0037
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\test2.ts.meta": {
+      "time": 1715323434579.3782
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\utils\\ArrayUtils.ts.meta": {
+      "time": 1715317534769.0613
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\scripts\\utils\\MathUtil.ts.meta": {
+      "time": 1715317534777.0703
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\test1.scene": {
+      "time": 1715326773330.7158,
+      "uuid": "b4b220c3-ac31-4b54-8e1a-e98444165336"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\test2.scene": {
+      "time": 1715326919371.0361,
+      "uuid": "affb9958-67a5-487d-b6c6-09c9f646b11b"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\test3.scene": {
+      "time": 1715325503344.123,
+      "uuid": "efe0bc85-9a83-4808-8848-d2d00b28b404"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\ani\\btn_ani.anim": {
+      "time": 1715325017199.0972,
+      "uuid": "6e45002c-f47e-410c-b22b-76463539d8ab"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\prefabs\\item.prefab": {
+      "time": 1715317927128.7588,
+      "uuid": "6844e67c-6d83-4073-b534-c005bf85b3d4"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\textures\\button.png": {
+      "time": 1606532737000,
+      "uuid": "54085230-5e03-4024-a282-100eac80293c"
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\test2.scene.meta": {
+      "time": 1715322763929.461
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\test1.scene.meta": {
+      "time": 1715314443237.4827
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\test3.scene.meta": {
+      "time": 1715324403752.6348
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\ani\\btn_ani.anim.meta": {
+      "time": 1715324775521.579
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\prefabs\\item.prefab.meta": {
+      "time": 1715316141516.8242
+    },
+    "C:\\win11_PD\\naiknig\\gitee\\interview-questions_-joycastle\\assets\\textures\\button.png.meta": {
+      "time": 1715324468161.9358
+    }
+  },
+  "missing": {
+    "6844e67c-6d83-4073-b534-c005bf85b3d4": {
+      "path": "C:\\win11_PD\\study\\test\\assets\\prefabs\\c0.prefab",
+      "time": 1715316135283.4043,
+      "removeTime": 1715316141505
+    },
+    "b4b220c3-ac31-4b54-8e1a-e98444165336": {
+      "path": "C:\\win11_PD\\study\\test\\assets\\test.scene",
+      "time": 1715322232621.373,
+      "removeTime": 1715324389932
+    },
+    "ebc20d02-6888-4eb5-88ab-60fce41f1d66": {
+      "path": "C:\\win11_PD\\study\\test\\assets\\texture",
+      "time": 1715324446677.671,
+      "removeTime": 1715324451386
+    }
+  }
+}

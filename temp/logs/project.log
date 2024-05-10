@@ -1,0 +1,6 @@
+2024-5-10 15:49:44 - log: Load engine in C:\win11_PD\soft\CocosCreator-v3.8.1-win-082412\resources\resources\3d\engine
+2024-5-10 15:49:45 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+2024-5-10 15:49:45 - log: Register native engine in C:\win11_PD\soft\CocosCreator-v3.8.1-win-082412\resources\resources\3d\engine\native
+2024-5-10 15:49:53 - warn: platform wechatgame config in engine has exist!
+2024-5-10 15:50:04 - warn: platform web-desktop config in adsense-h5g-plugin has exist!
+2024-5-10 15:50:04 - warn: platform web-mobile config in adsense-h5g-plugin has exist!

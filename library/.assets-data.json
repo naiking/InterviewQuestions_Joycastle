@@ -1,0 +1,139 @@
+{
+  "b4b220c3-ac31-4b54-8e1a-e98444165336": {
+    "url": "db://assets/test1.scene",
+    "value": {
+      "depends": [
+        "b4b220c3-ac31-4b54-8e1a-e98444165336",
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "6844e67c-6d83-4073-b534-c005bf85b3d4",
+        "afc47931-f066-46b0-90be-9fe61f213428@f9941",
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "d1e0d758-90a8-4608-a9a3-fac0e30dcdb8",
+        "CC3eba29-7abb-723a-f7ab-ae275e2277e8"
+      ]
+    }
+  },
+  "1061d8fa-f962-488b-b5a8-eb3e77811c18": {
+    "url": "db://assets/scripts",
+    "value": {}
+  },
+  "d1e0d758-90a8-4608-a9a3-fac0e30dcdb8": {
+    "url": "db://assets/scripts/Test.ts",
+    "value": {}
+  },
+  "58fef525-0335-4482-9789-0334f990f7ab": {
+    "url": "db://assets/prefabs",
+    "value": {}
+  },
+  "6844e67c-6d83-4073-b534-c005bf85b3d4": {
+    "url": "db://assets/prefabs/item.prefab",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "3bf2e4b1-5a93-4b43-bf7d-95393819daf4"
+      ]
+    }
+  },
+  "aa8c0bd5-2150-42c0-8294-1d5e813c2fb2": {
+    "url": "db://assets/scripts/utils",
+    "value": {}
+  },
+  "2c2a6827-6957-4965-a795-38d701443847": {
+    "url": "db://assets/scripts/utils/ArrayUtils.ts",
+    "value": {}
+  },
+  "63452d1b-e744-4299-8154-e6837ade42dc": {
+    "url": "db://assets/scripts/utils/MathUtil.ts",
+    "value": {}
+  },
+  "3bf2e4b1-5a93-4b43-bf7d-95393819daf4": {
+    "url": "db://assets/scripts/Item.ts",
+    "value": {}
+  },
+  "9f41fba5-a179-44e6-9618-a5a9d6c0468b": {
+    "url": "db://assets/scripts/CheckArray.ts",
+    "value": {}
+  },
+  "affb9958-67a5-487d-b6c6-09c9f646b11b": {
+    "url": "db://assets/test2.scene",
+    "value": {
+      "depends": [
+        "affb9958-67a5-487d-b6c6-09c9f646b11b",
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941"
+      ],
+      "dependScripts": [
+        "b628b6c3-5db2-431d-8058-fe5b1e92706f"
+      ]
+    }
+  },
+  "b628b6c3-5db2-431d-8058-fe5b1e92706f": {
+    "url": "db://assets/scripts/test2.ts",
+    "value": {}
+  },
+  "efe0bc85-9a83-4808-8848-d2d00b28b404": {
+    "url": "db://assets/test3.scene",
+    "value": {
+      "depends": [
+        "efe0bc85-9a83-4808-8848-d2d00b28b404",
+        "54085230-5e03-4024-a282-100eac80293c@f9941",
+        "6e45002c-f47e-410c-b22b-76463539d8ab"
+      ],
+      "dependScripts": [
+        "fe2d4ddb-2d06-4760-aa34-9801315740a7"
+      ]
+    }
+  },
+  "ebc20d02-6888-4eb5-88ab-60fce41f1d66": {
+    "url": "db://assets/textures",
+    "value": {}
+  },
+  "54085230-5e03-4024-a282-100eac80293c": {
+    "url": "db://assets/textures/button.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "54085230-5e03-4024-a282-100eac80293c@6c48a": {
+    "url": "db://assets/textures/button.png@6c48a",
+    "value": {
+      "depends": [
+        "54085230-5e03-4024-a282-100eac80293c"
+      ]
+    }
+  },
+  "54085230-5e03-4024-a282-100eac80293c@f9941": {
+    "url": "db://assets/textures/button.png@f9941",
+    "value": {
+      "depends": [
+        "54085230-5e03-4024-a282-100eac80293c@6c48a"
+      ]
+    }
+  },
+  "08838599-29bb-4691-81ef-9d20d5fffdf6": {
+    "url": "db://assets/ani",
+    "value": {}
+  },
+  "6e45002c-f47e-410c-b22b-76463539d8ab": {
+    "url": "db://assets/ani/btn_ani.anim",
+    "value": {
+      "depends": []
+    }
+  },
+  "fe2d4ddb-2d06-4760-aa34-9801315740a7": {
+    "url": "db://assets/scripts/AniButton.ts",
+    "value": {}
+  }
+}
